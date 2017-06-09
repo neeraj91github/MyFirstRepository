@@ -1,1 +1,3 @@
-Hi, this is my first commit. Lets see how it goes.
+Hi, this is my first commit. Lets see how it goes. 
+
+Great, it seems like its working.
